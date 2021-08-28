@@ -588,7 +588,7 @@ NOTE: This is very useful in debugging a program with unmatched parentheses!
      or  N  to search in the opposite direction.
      CTRL-O takes you back to older positions, CTRL-I to newer positions.
 
-  3. Typing  %	while the cursor is on a (,),[,],{, or } goes to its match.
+  3. Typing  %	while the cursor is on a (,),[,] or {,} goes to its match.
 
   4. To substitute new for the first old in a line type    :s/old/new
      To substitute new for all 'old's on a line type	   :s/old/new/g
